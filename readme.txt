@@ -1,1 +1,1 @@
-read me text doc created in newBranch before merging into master
+a simple github repo for practise in using Git/Github
